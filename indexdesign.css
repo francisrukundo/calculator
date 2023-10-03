@@ -1,0 +1,33 @@
+.maincalculator{
+background-color: lightblue;
+color: azure;
+
+
+
+}
+.table1
+{
+    background-color: black;
+    text-align: center;
+}
+.maincalculator{
+    display: flex;
+    justify-content: center;
+}
+td{
+    background-color: antiquewhite;
+    color: black;
+}
+.equalsign{
+    background-color:orange;
+    color: white;
+}
+.copy{
+    background-color: red;
+    color: white;
+}
+.table1{
+    height: 500;
+    width: 500;
+    border-radius: 5%;
+}
